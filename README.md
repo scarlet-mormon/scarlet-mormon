@@ -6,7 +6,6 @@
   
   - 🌱 I’m currently learning Machine Learning and Big Data
   - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
   
   #### 📫 How to reach me:
   
@@ -53,6 +52,6 @@
  1477.50  ┤     ╰─╯
  1467.00  ┤
 
-Chart last updated - Sun Dec 21 11:06:37 EST 2025  
+Chart last updated - Sun Dec 21 11:06:37 CST 2025  
   ```
   
